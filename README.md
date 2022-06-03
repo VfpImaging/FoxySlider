@@ -9,11 +9,11 @@ A pure VFP class of a Slider control
 <h2>Default controls look</h2>
 <p><img src="https://user-images.githubusercontent.com/43327527/171768233-74aebbbe-6a64-4c5a-864a-4ccd334264ee.png" alt="" width="534" height="250"></p>
 <h2>Customize your slider!</h2>
-<p><img src="FoxySlider_xSlider_Custom.png" alt="" width="309" height="542"></p>
+<p><img src="https://user-images.githubusercontent.com/43327527/171768240-a130f84c-8a1c-4918-a3da-8bc6ea137efd.png" alt="" width="309" height="542"></p>
 <p>&nbsp;</p>
 <p>A&nbsp;<strong>Slider</strong>&nbsp;control lets users select a value from a range of values. The following illustration shows an example of a&nbsp;<strong>Slider</strong>&nbsp;control.</p>
 <p><strong>Example of a Slider Control</strong></p>
-<p><img src="FoxySlider_Slider_Explain.png" alt="" width="250" height="103"></p>
+<p><img src="https://user-images.githubusercontent.com/43327527/171768240-a130f84c-8a1c-4918-a3da-8bc6ea137efd.png" alt="" width="250" height="103"></p>
 <p>You can customize a&nbsp;<strong>Slider</strong>&nbsp;control by setting its properties. The following list describes some of the attributes of a&nbsp;<strong>Slider</strong>&nbsp;that you can customize:</p>
 <ul>
 <li>
