@@ -150,12 +150,12 @@ The tooltips will be shown only when the Mouse is Clicked on the Thumb button, l
 <p>1 - Toss one instance of the XSLIDER class from your VCX at the Project manager into your form.</p>
 <p>2 - Right click the control, select properties, select the &quot;Favorites&quot; tab, to see the properties that you can customize.</p>
 <p>3 - Set the main properties: &quot;Min&quot;, &quot;Max&quot;, &quot;StyleControl&quot; and your done!!!</p>
-<p><img src="FoxySlider_Slider_Config2.png" alt="" width="782" height="649"></p>
+<p><img src="https://user-images.githubusercontent.com/43327527/171768237-df220a21-8b15-4c2e-95e7-d81327fc3a8d.png" alt="" width="782" height="649"></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;<img src="FoxySlider_xSlider_Default_DesignTime.png" alt="" width="898" height="655"></p>
+<p>&nbsp;<img src="https://user-images.githubusercontent.com/43327527/171768230-47903762-3c22-44d9-b6b0-9c6b52f6ecc5.png" alt="" width="898" height="655"></p>
 <p>&nbsp;</p>
-<p>&nbsp;<img src="FoxySlider_xSlider_Default.png" alt="" width="899" height="655"></p>
+<p>&nbsp;<img src="https://user-images.githubusercontent.com/43327527/171768242-1b8e9b57-1ebb-4c73-8360-98890e9aebfd.png" alt="" width="899" height="655"></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </body>
