@@ -7,7 +7,7 @@ A pure VFP class of a Slider control
 <p><strong>FOXYSLIDER</strong> is a very lightweight control. Just toss one instance of the class in your form and set some properties!</p>
 <p>The following illustration shows some examples of the slider control.</p>
 <h2>Default controls look</h2>
-<p><img src="https://user-images.githubusercontent.com/43327527/171768233-74aebbbe-6a64-4c5a-864a-4ccd334264ee.png" alt="" width="534" height="250"></p>
+<p><img src="https://user-images.githubusercontent.com/43327527/171768241-86e32074-68f1-480a-a174-7d9149c84469.png" alt="" width="534" height="250"></p>
 <h2>Customize your slider!</h2>
 <p><img src="https://user-images.githubusercontent.com/43327527/171768240-a130f84c-8a1c-4918-a3da-8bc6ea137efd.png" alt="" width="309" height="542"></p>
 <p>&nbsp;</p>
